@@ -1,1 +1,1 @@
-# Laborat-rio-de-Programa-o
+# Laboratorio-de-Programação
